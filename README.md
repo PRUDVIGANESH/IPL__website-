@@ -5,6 +5,8 @@ A simple and interactive web application that brings the Indian Premier League (
 This site allows users to explore IPL teams, players, match schedules, points table, and news—all in one place.
 
  Features
+
+ 
 -View IPL teams and players
 -Browse match schedules and points table
 - Read news updates
@@ -12,6 +14,8 @@ This site allows users to explore IPL teams, players, match schedules, points ta
 - Built with a clean, modular code structure
 
  Tech Stack
+
+ 
 Backend: Python (Flask)
 
 Frontend: HTML, CSS (Bootstrap)
