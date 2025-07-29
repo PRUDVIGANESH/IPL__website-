@@ -7,8 +7,8 @@ This site allows users to explore IPL teams, players, match schedules, points ta
  Features
 
  
--View IPL teams and players
--Browse match schedules and points table
+- View IPL teams and players
+- Browse match schedules and points table
 - Read news updates
 - Simple contact page for user inquiries
 - Built with a clean, modular code structure
